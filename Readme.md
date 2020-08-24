@@ -1,4 +1,5 @@
 Test task.
+
 Used: 
 Selenium with Protractor framework.
 
@@ -16,4 +17,5 @@ This web site is not very friendly to automation testing:
 - Not all the functionality were implemented and lots of information are ebsent. Some menus wasn't even available(500 Internal Server Error).
 - ID for elements is not implemented and classes are named without any logic, even from development side.
 - Though this web site is for test purposes - from time to time the responce time was too high.
+
 All of the mentioned above means that automation cases for this page may be flacky and can fail in case of some changes from the code side.
